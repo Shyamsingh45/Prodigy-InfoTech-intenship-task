@@ -38,3 +38,6 @@ https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 - Cleaned data, preprocessed text, and encoded variables
 - Conducted EDA, analyzed sentiment scores distribution, and visualized sentiment trends
 - Applied sentiment analysis using Power BI techniques and created interactive visualizations
+
+
+These tasks have been a fantastic learning experience, honing my skills in data analysis, machine learning, and visualization. Looking forward to applying these skills in future projects! #DataScience #MachineLearning #DataAnalysis #ProdigyInfoTech #Internship
