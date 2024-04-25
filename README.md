@@ -58,4 +58,5 @@ https://www.kaggle.com/code/harshalbhamare/us-accident-eda
 These tasks have not only enhanced my technical skills but also my ability to tackle complex data challenges and derive meaningful insights. I'm excited to continue growing and exploring new opurtunity.
 These tasks have been a fantastic learning experience, honing my skills in data analysis, machine learning, and visualization. Looking forward to applying these skills in future projects! #DataScience #MachineLearning #DataAnalysis #ProdigyInfoTech #Internship
 
-Link
+Linkedin-
+https://www.linkedin.com/in/shyam-singh-34b5b5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
