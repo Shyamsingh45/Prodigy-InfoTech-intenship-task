@@ -46,11 +46,13 @@ Dataset :-
 https://www.kaggle.com/code/harshalbhamare/us-accident-eda
 
 -Explore traffic accident data to identify patterns and trends.
+
 -Leveraged Python libraries such as Matplotlib, Seaborn, NumPy, and Pandas for data analysis and visualization.
+
 -Expertise in data visualization using Matplotlib and Seaborn.
+
 -Advanced skills in data manipulation with Pandas and NumPy.
 
 
-These tasks have not only enhanced my technical skills but also my ability to tackle complex data challenges and derive meaningful insights. I'm excited to continue growing and exploring new op
-
+These tasks have not only enhanced my technical skills but also my ability to tackle complex data challenges and derive meaningful insights. I'm excited to continue growing and exploring new opurtunity.
 These tasks have been a fantastic learning experience, honing my skills in data analysis, machine learning, and visualization. Looking forward to applying these skills in future projects! #DataScience #MachineLearning #DataAnalysis #ProdigyInfoTech #Internship
